@@ -44,7 +44,7 @@ streamlit run untitled4.py
 📂 Repository Structure
 Plaintext
 ├── amazon_sentiment_analysis.ipynb   # Complete data exploration and model training notebook
-├── app.py                            # Streamlit web application script
+├── untitled4.py                            # Streamlit web application script
 ├── my_sentiment_model.pkl            # Serialized Scikit-Learn pipeline
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
